@@ -16,8 +16,6 @@ RAGtools provides connectors and utilities to help you:
 
 ## Getting Started
 TODO
-|
-V
 ```bash
 pip install figma-to-rag
 pip install atlassian-to-rag
