@@ -20,7 +20,3 @@ TODO
 pip install figma-to-rag
 pip install atlassian-to-rag
 ```
-
-## License
-
-Apache 2.0 License
