@@ -11,8 +11,8 @@ RAGtools provides connectors and utilities to help you:
 
 ## Available Tools
 
-- [figma-to-rag](https://github.com/RAGtools/figma-to-rag): Extract text, metadata, and relationships from Figma designs
-- TODO [atlassian-to-rag](https://github.com/RAGtools/atlassian-to-rag): Convert Confluence pages and Jira tickets into RAG datasets
+- [figma-to-rag](https://github.com/RAGbridge/figma-to-rag): Extract text, metadata, and relationships from Figma designs
+- TODO [atlassian-to-rag](https://github.com/RAGbridge/atlassian-to-rag): Convert Confluence pages and Jira tickets into RAG datasets
 
 ## Getting Started
 TODO
