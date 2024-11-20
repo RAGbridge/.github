@@ -15,9 +15,4 @@ RAGbridge provides connectors and utilities to help you:
 - [atlassian-to-rag](https://github.com/RAGbridge/atlassian-to-rag): Convert Confluence pages and (TODO) Jira tickets into RAG datasets
 - [zenhub-to-rag](https://github.com/RAGbridge/zenhub-to-rag): Convert Zenhub workspaces into RAG-optimized content for AI applications.
 
-## Getting Started
-TODO
-```bash
-pip install figma-to-rag
-pip install atlassian-to-rag
-```
+
