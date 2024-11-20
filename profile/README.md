@@ -13,6 +13,7 @@ RAGbridge provides connectors and utilities to help you:
 
 - [figma-to-rag](https://github.com/RAGbridge/figma-to-rag): Extract text, metadata, and relationships from Figma designs
 - [atlassian-to-rag](https://github.com/RAGbridge/atlassian-to-rag): Convert Confluence pages and (TODO) Jira tickets into RAG datasets
+- [zenhub-to-rag](https://github.com/RAGbridge/zenhub-to-rag): Convert Zenhub workspaces into RAG-optimized content for AI applications.
 
 ## Getting Started
 TODO
